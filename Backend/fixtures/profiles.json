@@ -1,0 +1,12 @@
+[
+    {
+        "pk": "john", 
+        "model": "accounts.profile", 
+        "fields": {}
+    },
+    {
+        "pk": "mary", 
+        "model": "accounts.profile", 
+        "fields": {}
+    }
+]

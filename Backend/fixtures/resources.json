@@ -1,0 +1,75 @@
+[
+    {
+        "pk": "csw", 
+        "model": "resources.venue", 
+        "fields": {
+            "latitude": "52.219444",
+            "longitude": "21.0375",
+            "name": "Centrum Sztuki Wsp\u00f3\u0142czesnej"
+        }
+    }, 
+    {
+        "pk": "mn", 
+        "model": "resources.venue", 
+        "fields": {
+            "latitude": "52.231667",
+            "longitude": "21.024722",
+            "name": "Muzeum Narodowe w Warszawie"
+        }
+    }, 
+    {
+        "pk": "BF086B326DA1F16231667BFC501250B27C57C53D", 
+        "model": "resources.resource", 
+        "fields": {
+            "image": "images/rajkowska_palma.png", 
+            "author": "Joanna Rajkowska", 
+            "venue": "csw", 
+            "description": "Pozdrowienia z Alej Jerozolimskich to projekt publiczny w przestrzeni miasta. Jego g\u0142\u00f3wnym elementem jest sztuczna palma daktylowa: Phoenix Canariensis, kt\u00f3ra stoi w Warszawie na skrzy\u017cowaniu: Alej Jerozolimskich i Nowego \u015awiatu, na wysepce ronda de Gaulle'a i pozostanie tam przez 12 miesi\u0119cy.\r\nPisali\u015bmy o Izraelu, zastanawia\u0142am si\u0119 nad zako\u0144czeniem tekstu. Wtedy chyba nast\u0105pi\u0142o we mnie jakie\u015b zwarcie i ponak\u0142ada\u0142y si\u0119 na siebie klatki pami\u0119ci z Warszawy i te z Jerozolimy np. z placu przed hotelikiem Faisal, gdzie mieszkali\u015bmy. I jeszcze jedna klatka: poczt\u00f3wka, kt\u00f3r\u0105 znale\u017ali\u015bmy na Starym Mie\u015bcie w Jerozolimie. By\u0142 tam \u0142ysy wzg\u00f3rek, a na nim rachityczna biedna palma. Pod spodem napis: \"Pozdrowienia z Hebronu\", albo po prostu \"Hebron\", nie pami\u0119tam dobrze. Zrobi\u0142a na mnie wra\u017cenie. Wygl\u0105da\u0142a, jakby by\u0142a drukowana w Polsce, gdzie\u015b w latach 80. \r\n(fragment wywiadu udzielonego przez Joann\u0119 Rajkowsk\u0105 Arturowi \u017bmijewskiemu)\r\n\r\nPozdrowienia z Alej Jerozolimskich s\u0105 pomys\u0142em wzi\u0119tym z j\u0119zyka, z opowiadania, z pr\u00f3by opisania podr\u00f3\u017cy do Izraela. Szpalery palm wzd\u0142u\u017c Alej Jerozolimskich mia\u0142y stanowi\u0107 podsumowanie wyprawy, kt\u00f3r\u0105 Joanna Rajkowska i Artur \u017bmijewski odbyli wiosn\u0105 2001 roku. W rozumieniu dos\u0142ownym jest to przeniesienie widoku, kt\u00f3ry w Izraelu jest oczywisty, do Warszawy, na ulic\u0119, kt\u00f3rej nazwa z kolei odsy\u0142a do Izraela. W warstwie mniej dos\u0142ownej palma nawi\u0105zuje do wyra\u017cenia, kt\u00f3rym w j\u0119zyku polskim opisujemy co\u015b nie do pomy\u015blenia, co\u015b poza naszym sposobem pojmowania, co\u015b, co m\u00f3wi\u0105c kr\u00f3tko uznajemy za idiotyczne. Z pewno\u015bci\u0105 ta palma jest zbiorowym, absurdalnym przedsi\u0119wzi\u0119ciem wielu os\u00f3b i w ten spos\u00f3b spe\u0142nia si\u0119 jej podstawowa funkcja: zgromadzi\u0107 ludzi, postawi\u0107 wobec czego\u015b, czego nie rozumiej\u0105. \r\nPalma jest wykonana z tworzyw sztucznych i materia\u0142\u00f3w naturalnych, jest przystosowana do warunk\u00f3w zewn\u0119trznych - odporna na deszcz, \u015bnieg i niskie temperatury - a tak\u017ce zabezpieczona od skutk\u00f3w promieniowania s\u0142onecznego. Li\u015bcie wykonane s\u0105 z polietylenu z filtrem UV. Umieszczona wewn\u0105trz pnia konstrukcja zapobiega przechylaniu si\u0119 jej pod wp\u0142ywem wiatru. Stalowy trzon jest ob\u0142o\u017cony poliuretanem strukturalnym oraz kor\u0105, odpowiednio zabezpieczon\u0105 chemikaliami. Ca\u0142o\u015b\u0107 jest osadzona na metalowej konstrukcji, umocowanej prefabrykatami betonowymi. Wysoko\u015b\u0107 palmy wraz z koron\u0105 wynosi ok. 15 metr\u00f3w. Palma zosta\u0142a zaprojektowana przez autor\u00f3w projektu, a wykonana przez firm\u0119 Soul-utions.Com w Stanach Zjednoczonych.\r\nJako projekt istniej\u0105cy w przestrzeni publicznej, w wa\u017cnym punkcie komunikacyjnym miasta, wymaga\u0142 pozwole\u0144 wielu instytucji, pozytywnej opinii w\u0142adz miasta, a tak\u017ce przychylno\u015bci sponsor\u00f3w, poniewa\u017c nie jest finansowany ze \u015brodk\u00f3w publicznych.\r\n\r\nZ pewno\u015bci\u0105 palma jest zbiorowym, absurdalnym przedsi\u0119wzi\u0119ciem wielu ludzi i w ten spos\u00f3b spe\u0142nia si\u0119 jej podstawowa funkcja: zgromadzi\u0107 ludzi, wobec czego\u015b, czego nie rozumiej\u0105. \r\nPalma jest wykonana z tworzyw sztucznych i materia\u0142\u00f3w naturalnych, jest przystosowana do warunk\u00f3w zewn\u0119trznych, odporna na deszcz, \u015bnieg i niskie temperatury, a tak\u017ce zabezpieczona przeciwko promieniowaniu s\u0142o\u0144ca. Li\u015bcie wykonane s\u0105 z polietylenu z filtrem UV. Umieszczona wewn\u0105trz pnia konstrukcja zapobiega przechylaniu si\u0119 drzewa pod wp\u0142ywem wiatru. Stalowy trzon jest ob\u0142o\u017cony poliuretanem strukturalnym oraz kor\u0105 odpowiednio zabezpieczon\u0105 chemikaliami. Ca\u0142o\u015b\u0107 jest osadzona na konstrukcji metalowej, obci\u0105\u017conej prefabrykatami betonowymi, co gwarantuje stabilno\u015b\u0107. Wysoko\u015b\u0107 palmy wraz z koron\u0105 wynosi ok. 15 metr\u00f3w. Palma zosta\u0142a zaprojektowana przez autor\u00f3w projektu oraz firm\u0119 Soul-utions.Com w Stanach Zjednoczonych.\r\n\r\nJako projekt istniej\u0105cy w przestrzeni publicznej, w wa\u017cnym punkcie komunikacyjnym miasta, wymaga\u0142 pozwole\u0144 szeregu instytucji, pozytywnej opinii w\u0142adz miasta, a tak\u017ce przychylno\u015bci sponsor\u00f3w, poniewa\u017c nie jest finansowany ze \u015brodk\u00f3w publicznych.\r\n\r\nwww.palma.art.pl", 
+            "title": "Pozdrowienia z Alej Jerozolimskich"
+        }
+    }, 
+    {
+        "pk": "C9D2F1E745E48D5DB14CBE236662D5EF2EE21722", 
+        "model": "resources.resource", 
+        "fields": {
+            "image": "images/10_d_05_kolekcja_d7.png", 
+            "author": "Magdalena Abakanowicz, Pawe\u0142 Althamer, Eric Andersen, [...]", 
+            "venue": "csw", 
+            "description": "Mi\u0119dzynarodowa Kolekcja Sztuki Wsp\u00f3\u0142czesnej CSW pozostaje niezmiennie wypadkow\u0105 przebiegaj\u0105cych w CSW proces\u00f3w obserwacji, dokumentacji i regularnych prezentacji sztuki najnowszej. W ci\u0105gu 20-letniej, systematycznej dzia\u0142alno\u015bci Centrum stara\u0142o si\u0119 zachowa\u0107 konsekwencj\u0119 post\u0119powania zorientowanego na uchwycenie istotnych cech procesu przemian sztuki wsp\u00f3\u0142czesnej. Niezmiennie wa\u017cne pozostaje odniesienie do \u017ar\u00f3de\u0142 inspiracji polskiej sztuki wsp\u00f3\u0142czesnej z prze\u0142omu lat 60. i 70. ubieg\u0142ego wieku, kt\u00f3re by\u0142y zdeterminowane do\u015bwiadczeniami konstruktywizmu i konceptualizmu. Na tle zasob\u00f3w wi\u0119kszo\u015bci galerii krajowych zbiory CSW wyr\u00f3\u017cnia kolekcja dzie\u0142 wybitnych tw\u00f3rc\u00f3w sztuki \u015bwiatowej ostatniego p\u00f3\u0142wiecza, kt\u00f3re tworz\u0105 interesuj\u0105cy punkt odniesienia dla tw\u00f3rc\u00f3w sztuki polskiej.\r\n\r\nW ramach 5. Edycji Mi\u0119dzynarodowej Kolekcji Sztuki CSW pokazane s\u0105 prace ponad 110 artyst\u00f3w (w tym 30 zagranicznych), pos\u0142uguj\u0105cych si\u0119 wszechstronnymi \u015brodkami wypowiedzi (malarstwo, rze\u017aba, fotografia, rysunek, instalacja, wideo, zapisy akcji artystycznych i projekt\u00f3w publicznych). Zapocz\u0105tkowan\u0105 w latach 60. list\u0119 kolejnych generacji tw\u00f3rc\u00f3w sztuki polskiej zamykaj\u0105 manifestacje artyst\u00f3w pokolenia debiutuj\u0105cego ju\u017c w 21. wieku.\r\n\r\nZasadniczym punktem odniesienia dla Kolekcji jest pierwsza awangarda z lat 30. XX wieku, co uzasadnia umieszczenie na wst\u0119pie ekspozycji pracy Henryka Sta\u017cewskiego, dope\u0142nionej symboliczn\u0105 obecno\u015bci\u0105 pracy Michela Seuphora, kt\u00f3ry odegra\u0142 istotn\u0105 rol\u0119 w o\u017cywieniu dialogu \u015brodowiska awangardy polskiej z o\u015brodkiem paryskim odgrywaj\u0105cym wielk\u0105 rol\u0119 w pierwszej po\u0142owie XX wieku, co zaowocowa\u0142o powstaniem Kolekcji \u0142\u00f3dzkiej. Narracja wystawy eksponuje nazwiska wa\u017cnych dla sztuki polskiej, tak\u017ce w skali mi\u0119dzynarodowej, Romana Opa\u0142ki, W\u0142odzimierza Borowskiego, Edwarda Krasi\u0144skiego, Tadeusza Kantora i Magdaleny Abakanowicz.\r\n\r\n\r\nKolekcja jest wynikiem zamierze\u0144 i wypadkow\u0105 mo\u017cliwo\u015bci CSW determinowanych ograniczono\u015bci\u0105 powierzchni ekspozycji, jak i niedostatkiem \u015brodk\u00f3w finansowych, kt\u00f3re pozwoli\u0142yby j\u0105 dowolnie kompletowa\u0107 i formowa\u0107. Do czasu jednak przyj\u0119cia przez Muzeum Sztuki Nowoczesnej pe\u0142ni zada\u0144 zwi\u0105zanych z realizacj\u0105 misji Muzeum, Kolekcja CSW pozostaje jedyn\u0105 w stolicy sta\u0142\u0105 ekspozycj\u0105 sztuki wsp\u00f3\u0142czesnej wyra\u017anie ukazuj\u0105c\u0105 autonomiczne cechy sztuki polskiej w kontek\u015bcie wa\u017cnych dzie\u0142 i nazwisk reprezentuj\u0105cych sztuk\u0119 \u015bwiatow\u0105.\r\n\r\nTekst kuratorski: Wojciech Krukowski, Warszawa, 2009", 
+            "title": "Mi\u0119dzynarodowa kolekcja sztuki wsp\u00f3\u0142czesnej. Edycja 5"
+        }
+    }, 
+    {
+        "pk": "C9D2F1E745E48D5DB142BE2366C3D5EF2EE21722", 
+        "model": "resources.resource", 
+        "fields": {
+            "image": "images/10_d_05_kolekcja_d21.png", 
+            "author": "Magdalena Abakanowicz, Pawe\u0142 Althamer, Eric Andersen, [...]", 
+            "venue": "csw", 
+            "description": "Mi\u0119dzynarodowa Kolekcja Sztuki Wsp\u00f3\u0142czesnej CSW pozostaje niezmiennie wypadkow\u0105 przebiegaj\u0105cych w CSW proces\u00f3w obserwacji, dokumentacji i regularnych prezentacji sztuki najnowszej. W ci\u0105gu 20-letniej, systematycznej dzia\u0142alno\u015bci Centrum stara\u0142o si\u0119 zachowa\u0107 konsekwencj\u0119 post\u0119powania zorientowanego na uchwycenie istotnych cech procesu przemian sztuki wsp\u00f3\u0142czesnej. Niezmiennie wa\u017cne pozostaje odniesienie do \u017ar\u00f3de\u0142 inspiracji polskiej sztuki wsp\u00f3\u0142czesnej z prze\u0142omu lat 60. i 70. ubieg\u0142ego wieku, kt\u00f3re by\u0142y zdeterminowane do\u015bwiadczeniami konstruktywizmu i konceptualizmu. Na tle zasob\u00f3w wi\u0119kszo\u015bci galerii krajowych zbiory CSW wyr\u00f3\u017cnia kolekcja dzie\u0142 wybitnych tw\u00f3rc\u00f3w sztuki \u015bwiatowej ostatniego p\u00f3\u0142wiecza, kt\u00f3re tworz\u0105 interesuj\u0105cy punkt odniesienia dla tw\u00f3rc\u00f3w sztuki polskiej.\r\n\r\nW ramach 5. Edycji Mi\u0119dzynarodowej Kolekcji Sztuki CSW pokazane s\u0105 prace ponad 110 artyst\u00f3w (w tym 30 zagranicznych), pos\u0142uguj\u0105cych si\u0119 wszechstronnymi \u015brodkami wypowiedzi (malarstwo, rze\u017aba, fotografia, rysunek, instalacja, wideo, zapisy akcji artystycznych i projekt\u00f3w publicznych). Zapocz\u0105tkowan\u0105 w latach 60. list\u0119 kolejnych generacji tw\u00f3rc\u00f3w sztuki polskiej zamykaj\u0105 manifestacje artyst\u00f3w pokolenia debiutuj\u0105cego ju\u017c w 21. wieku.\r\n\r\nZasadniczym punktem odniesienia dla Kolekcji jest pierwsza awangarda z lat 30. XX wieku, co uzasadnia umieszczenie na wst\u0119pie ekspozycji pracy Henryka Sta\u017cewskiego, dope\u0142nionej symboliczn\u0105 obecno\u015bci\u0105 pracy Michela Seuphora, kt\u00f3ry odegra\u0142 istotn\u0105 rol\u0119 w o\u017cywieniu dialogu \u015brodowiska awangardy polskiej z o\u015brodkiem paryskim odgrywaj\u0105cym wielk\u0105 rol\u0119 w pierwszej po\u0142owie XX wieku, co zaowocowa\u0142o powstaniem Kolekcji \u0142\u00f3dzkiej. Narracja wystawy eksponuje nazwiska wa\u017cnych dla sztuki polskiej, tak\u017ce w skali mi\u0119dzynarodowej, Romana Opa\u0142ki, W\u0142odzimierza Borowskiego, Edwarda Krasi\u0144skiego, Tadeusza Kantora i Magdaleny Abakanowicz.\r\n\r\n\r\nKolekcja jest wynikiem zamierze\u0144 i wypadkow\u0105 mo\u017cliwo\u015bci CSW determinowanych ograniczono\u015bci\u0105 powierzchni ekspozycji, jak i niedostatkiem \u015brodk\u00f3w finansowych, kt\u00f3re pozwoli\u0142yby j\u0105 dowolnie kompletowa\u0107 i formowa\u0107. Do czasu jednak przyj\u0119cia przez Muzeum Sztuki Nowoczesnej pe\u0142ni zada\u0144 zwi\u0105zanych z realizacj\u0105 misji Muzeum, Kolekcja CSW pozostaje jedyn\u0105 w stolicy sta\u0142\u0105 ekspozycj\u0105 sztuki wsp\u00f3\u0142czesnej wyra\u017anie ukazuj\u0105c\u0105 autonomiczne cechy sztuki polskiej w kontek\u015bcie wa\u017cnych dzie\u0142 i nazwisk reprezentuj\u0105cych sztuk\u0119 \u015bwiatow\u0105.\r\n\r\nTekst kuratorski: Wojciech Krukowski, Warszawa, 2009", 
+            "title": "Mi\u0119dzynarodowa kolekcja sztuki wsp\u00f3\u0142czesnej. Edycja 5"
+        }
+    }, 
+    {
+        "pk": "0EB381CDFBA60E2942577C02F288D11F4410BA28", 
+        "model": "resources.resource", 
+        "fields": {
+            "image": "images/CHELMONSKI_05.png", 
+            "author": "J\u00f3zef Che\u0142mo\u0144ski", 
+            "venue": "mn", 
+            "description": "Babie lato 1875. olej na p\u0142\u00f3tnie, 119,7 x 156,5 cm. Muzeum Narodowe w Warszawie.", 
+            "title": "Babie lato"
+        }
+    }, 
+    {
+        "pk": "FCC53E6337AC1211C872B411E876A5BF7F8F0C8F", 
+        "model": "resources.resource", 
+        "fields": {
+            "image": "images/193.png", 
+            "author": "Artur Grottger", 
+            "venue": "mn", 
+            "description": "Artur Grottger (1837-1867) \"Mnich\", 1855, akwarela, papier kremowy ", 
+            "title": "Mnich"
+        }
+    }
+]

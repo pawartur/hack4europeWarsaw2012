@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIImageSizePictureDetails</key>
+	<dict>
+		<key>width</key>
+		<integer>260</integer>
+		<key>height</key>
+		<integer>198</integer>
+	</dict>
+	<key>UIImageSizeListThumbnail</key>
+	<dict>
+		<key>width</key>
+		<integer>64</integer>
+		<key>height</key>
+		<integer>64</integer>
+	</dict>
+</dict>
+</plist>
