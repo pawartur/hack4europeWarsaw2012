@@ -1,27 +1,7 @@
-# This is my README
+This is a project that I and my friend did during hack4europe Warsaw 2012 that was organized in 26-27.05.2012.
 
-## API Examples
+I did the iOs client part, my friend did the backend part.
 
-### Posting comment
+The backend is built with Django1.4 and django-tastypie.
 
-POST (new comment) -> http://192.168.99.52:8000/api/v1/comment/
-POST (new comment) -> http://127.0.0.1:8000/api/v1/comment/
-
-{"profile": "/api/v1/profile/john/", "venue": "/api/v1/venue/csw/", "comment": "New comment."}
-
-### Posting comment
-
-POST (new rating) -> http://192.168.99.52:8000/api/v1/rating/
-POST (new rating) -> http://127.0.0.1:8000/api/v1/rating/
-
-{"profile": "/api/v1/profile/mary/", "venue": "/api/v1/venue/mn/", "rating": 5}
-
-### Getting comments about given venue
-
-GET -> http://192.168.99.52:8000/api/v1/venue/csw/comments/?format=json
-GET -> http://127.0.0.1:8000/api/v1/venue/csw/comments/?format=json
-
-### Getting resources of given venue
-
-GET -> http://192.168.99.52:8000/api/v1/venue/mn/resources/?format=json
-GET -> http://127.0.0.1:8000/api/v1/venue/mn/resources/?format=json
+The iOs client is built with RestKit 0.10.0.
